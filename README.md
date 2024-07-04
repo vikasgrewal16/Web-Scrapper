@@ -12,7 +12,6 @@ This project is a web scraper designed to extract information from websites, inc
 - [Usage](#usage)
 - [Code Overview](#code-overview)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation and Setup
 
